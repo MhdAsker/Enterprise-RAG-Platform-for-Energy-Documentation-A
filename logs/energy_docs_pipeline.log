@@ -1,0 +1,158 @@
+[2026-04-16 16:21:16] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:21:16] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:21:16] EnergyDocs - INFO - retrieval.py:23 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:21:16] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:21:25] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:21:25] EnergyDocs - INFO - retrieval.py:44 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:21:26] EnergyDocs - INFO - retrieval.py:56 - VectorStore successfully connected!
+[2026-04-16 16:21:26] EnergyDocs - INFO - retrieval.py:78 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:21:26] EnergyDocs - INFO - retrieval.py:117 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-16 16:23:01] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:23:01] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:23:02] EnergyDocs - INFO - retrieval.py:23 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:23:02] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:23:09] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:23:09] EnergyDocs - INFO - retrieval.py:44 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:23:09] EnergyDocs - INFO - retrieval.py:56 - VectorStore successfully connected!
+[2026-04-16 16:23:31] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:23:31] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:23:32] EnergyDocs - INFO - retrieval.py:23 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:23:32] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:23:40] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:23:40] EnergyDocs - INFO - retrieval.py:44 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:23:41] EnergyDocs - INFO - retrieval.py:56 - VectorStore successfully connected!
+[2026-04-16 16:25:25] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:25:25] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:25:25] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:25:25] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:25:33] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:25:33] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:25:33] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:25:33] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:25:33] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-16 16:26:25] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:26:25] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:26:25] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:26:25] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:26:33] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:26:33] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:26:33] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:31:24] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:31:24] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:31:24] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:31:24] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:31:31] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:31:32] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:31:32] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:34:02] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:34:02] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:34:02] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:34:02] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:34:09] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:34:09] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:34:10] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:34:42] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:34:42] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:34:42] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:34:42] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:34:49] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:34:49] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:34:49] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:37:29] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:37:29] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:37:29] EnergyDocs - ERROR - test.py:50 - A critical test failure occurred!
+[2026-04-16 16:39:05] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:39:05] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:39:05] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:39:05] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:39:12] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:39:12] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:39:12] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:39:12] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:39:12] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-16 16:39:26] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:39:26] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:39:27] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:39:27] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:39:33] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:39:34] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:39:34] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:39:34] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:39:34] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-16 16:40:05] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:40:05] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:40:05] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:40:05] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:40:12] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:40:13] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:40:13] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:40:13] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:40:13] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-16 16:56:56] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-16 16:56:56] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-16 16:56:56] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-16 16:56:56] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-16 16:57:03] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-16 16:57:03] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-16 16:57:03] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-16 16:57:03] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-16 16:57:03] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-20 21:09:44] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-20 21:09:44] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-20 21:09:44] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-20 21:09:44] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-20 21:10:04] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-20 21:10:04] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-20 21:10:04] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-20 21:10:04] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-20 21:10:05] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-20 21:24:35] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-20 21:24:35] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-20 21:24:35] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-20 21:24:35] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-20 21:24:41] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-20 21:24:42] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-20 21:24:42] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-20 21:24:42] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-20 21:24:42] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-23 13:12:20] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-23 13:12:20] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-23 13:12:45] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-23 13:12:45] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-23 13:12:45] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-23 13:12:45] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-23 13:13:08] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-23 13:13:09] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-23 13:14:34] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-23 13:14:34] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-23 13:14:56] EnergyDocs - INFO - main.py:101 - Lazy loading RAG pipeline on first request...
+[2026-04-23 13:14:56] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-23 13:14:56] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-23 13:15:04] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-23 13:15:04] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-23 13:15:04] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-23 13:15:04] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-23 13:15:04] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-23 13:15:04] EnergyDocs - INFO - main.py:104 - RAG pipeline loaded successfully
+[2026-04-23 13:15:04] EnergyDocs - INFO - main.py:106 - Chat: energy output in years... (session: session_r01l9fcma_1776942879632)
+[2026-04-23 13:15:30] EnergyDocs - INFO - main.py:106 - Chat: what amount of energy wee can transfer out of germany, at a time,... (session: session_r01l9fcma_1776942879632)
+[2026-04-23 13:15:51] EnergyDocs - INFO - main.py:106 - Chat: information about dunkelflaute... (session: session_r01l9fcma_1776942879632)
+[2026-04-23 13:19:09] EnergyDocs - INFO - main.py:50 - Shutting down RAG pipeline
+[2026-04-23 13:19:18] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-23 13:19:18] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-23 13:20:05] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-23 13:20:05] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-23 13:20:46] EnergyDocs - INFO - main.py:101 - Lazy loading RAG pipeline on first request...
+[2026-04-23 13:20:46] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-23 13:20:46] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-23 13:20:54] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-23 13:20:54] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-23 13:20:54] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-23 13:20:54] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-23 13:20:54] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-23 13:20:54] EnergyDocs - INFO - main.py:104 - RAG pipeline loaded successfully
+[2026-04-23 13:20:54] EnergyDocs - INFO - main.py:106 - Chat: dunkleflaute information... (session: session_y1hj4gmmt_1776943221258)
+[2026-04-23 13:21:19] EnergyDocs - INFO - main.py:106 - Chat: dunkelflaute i meant... (session: session_y1hj4gmmt_1776943221258)
+[2026-04-23 13:21:31] EnergyDocs - INFO - main.py:106 - Chat: What is the Agorameter and its purpose?... (session: session_y1hj4gmmt_1776943221258)
+[2026-04-23 13:21:48] EnergyDocs - INFO - main.py:106 - Chat: is there any mention about india in documents... (session: session_y1hj4gmmt_1776943221258)
+[2026-04-23 13:22:03] EnergyDocs - INFO - main.py:106 - Chat: som informaion on indias energy grid... (session: session_y1hj4gmmt_1776943221258)

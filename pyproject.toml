@@ -1,0 +1,23 @@
+[project]
+name = "rag-llmops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.136.0",
+    "ipykernel>=7.2.0",
+    "jinja2>=3.1.6",
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.1",
+    "langchain-text-splitters>=1.1.1",
+    "langsmith>=0.7.32",
+    "pydantic>=2.13.1",
+    "pypdf>=6.10.2",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.4.1",
+    "uvicorn>=0.46.0",
+]

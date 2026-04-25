@@ -1,0 +1,35 @@
+[2026-04-21 13:01:51] EnergyDocs - INFO - config_loader.py:32 - Attempting to load pipeline config from: C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\energy_docs_chat\config\config.yaml
+[2026-04-21 13:01:51] EnergyDocs - INFO - config_loader.py:42 - Configuration variables successfully loaded!
+[2026-04-21 13:02:17] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-21 13:02:17] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-21 13:02:21] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:02:21] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-21 13:02:22] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-21 13:02:22] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-21 13:02:22] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-21 13:02:26] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:07:37] EnergyDocs - ERROR - 2278149900.py:22 - RAG error Q22: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01k4q25hbpfk6rygej6qm1khrv` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 4803, Requested 1207. Please try again in 100ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+[2026-04-21 13:12:47] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-21 13:12:47] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-21 13:12:50] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:12:50] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-21 13:12:50] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-21 13:12:50] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-21 13:12:50] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-21 13:12:54] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:15:55] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-21 13:15:55] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-21 13:15:58] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:15:58] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-21 13:15:58] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-21 13:15:58] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-21 13:15:58] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-21 13:16:01] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:32:34] EnergyDocs - INFO - retrieval.py:24 - Initializing the Retrieval Pipeline Engine...
+[2026-04-21 13:32:34] EnergyDocs - INFO - model_loader.py:38 - Loading Embedding Model: all-MiniLM-L6-v2
+[2026-04-21 13:32:37] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0
+[2026-04-21 13:32:37] EnergyDocs - INFO - retrieval.py:45 - Loading FAISS VectorStore locally from C:\Users\asker\Documents\GenAIProjects\RAG_LLMOPS\data\faiss_index
+[2026-04-21 13:32:37] EnergyDocs - INFO - retrieval.py:57 - VectorStore successfully connected!
+[2026-04-21 13:32:37] EnergyDocs - INFO - retrieval.py:79 - Assembling Pure LCEL History-Aware RAG Chain...
+[2026-04-21 13:32:37] EnergyDocs - INFO - retrieval.py:123 - Conversational RAG Chain successfully constructed and ready!
+[2026-04-21 13:32:41] EnergyDocs - INFO - model_loader.py:18 - Loading Primary LLM: llama-3.1-8b-instant with temperature 0.0

@@ -1,0 +1,35 @@
+# Central Configuration for Energy Docs RAG Pipeline
+
+data:
+  # Path to the raw PDF documents (relative to project root)
+  docs_dir: "data/"
+  # Path where the FAISS vector database is saved
+  vectorstore_dir: "data/faiss_index/"
+
+text_splitter:
+  # Standard sizes established in our analysis
+  chunk_size: 1000
+  chunk_overlap: 200
+
+embeddings:
+  # HuggingFace local embedding setup
+  provider: "huggingface"
+  model_name: "all-MiniLM-L6-v2"
+
+llm:
+  # The primary generation model
+  provider: "groq"
+  model_name: "llama-3.1-8b-instant"
+  # Set to 0 for strict, deterministic answers (important for RAG)
+  temperature: 0.0
+
+retrieval:
+  # How many chunks to retrieve per question
+  search_kwargs:
+    k: 3
+
+cache:
+  # Placeholder for your upcoming Semantic Cache feature!
+  enabled: true
+  # Determines how similar a saved question must be to serve a cached answer
+  similarity_threshold: 0.85
